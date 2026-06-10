@@ -1,0 +1,18 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "花瓣消消乐",
+        "navigationStyle": "custom",
+        "backgroundColor": "#fce4ec"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "花瓣消消乐",
+    "navigationBarBackgroundColor": "#e91e63",
+    "backgroundColor": "#fce4ec"
+  }
+}
